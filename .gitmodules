@@ -1,0 +1,12 @@
+[submodule "labsCPL"]
+	path = labsCPL
+	url = git@github.com:tudorhodo/labsCPL.git
+[submodule "Tema0CPL"]
+	path = Tema0CPL
+	url = git@github.com:tudorhodo/Tema0CPL.git
+[submodule "Tema1CPL"]
+	path = Tema1CPL
+	url = git@github.com:tudorhodo/Tema1CPL.git
+[submodule "Tema2CPL"]
+	path = Tema2CPL
+	url = git@github.com:tudorhodo/Tema2CPL.git
